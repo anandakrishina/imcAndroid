@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">IMCKrishina</string>
+    <string name="digite_seu_nome">Digite seu nome:</string>
+    <string name="digite_sua_altura">Digite sua altura</string>
+    <string name="digite_seu_peso">Digite seu peso</string>
+    <string name="calcular">Calcular meu IMC</string>
+    <string name="nome">NOME:</string>
+    <string name="altura">Altura</string>
+    <string name="peso">Peso</string>
+</resources>
